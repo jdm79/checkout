@@ -4,9 +4,12 @@ This project responds to the following brief:
 
 *Write the code for a supermarket checkout that can calculate the price of a number of items. Each item should be priced individually, and the checkout should be able to scan them in any order.*
 
+This project is designed to help me test-drive my code and build with objects.
+
 The requirements for the system are as follows:
 
-```As a shopper
+```
+As a shopper
 So I know how much an item costs
 I would like to be able to see its price
 
@@ -22,7 +25,7 @@ As a shopper
 So that I know how much to pay
 I would like to see all prices correctly formatted (£xx.xx)
 
-You main focus here should be to follow a rigorous TDD process: RED, GREEN, REFACTOR!```
+You main focus here should be to follow a rigorous TDD process: RED, GREEN, REFACTOR!
+```
 
-This project is designed to help me test-drive my code and build with objects.
 
